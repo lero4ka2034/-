@@ -1,0 +1,10 @@
+C:\Users\rraf1\source\repos\oby4enie\oby4enie\bin\Debug\oby4enie.exe.config
+C:\Users\rraf1\source\repos\oby4enie\oby4enie\bin\Debug\oby4enie.exe
+C:\Users\rraf1\source\repos\oby4enie\oby4enie\bin\Debug\oby4enie.pdb
+C:\Users\rraf1\source\repos\oby4enie\oby4enie\obj\Debug\oby4enie.csproj.AssemblyReference.cache
+C:\Users\rraf1\source\repos\oby4enie\oby4enie\obj\Debug\oby4enie.Form1.resources
+C:\Users\rraf1\source\repos\oby4enie\oby4enie\obj\Debug\oby4enie.Properties.Resources.resources
+C:\Users\rraf1\source\repos\oby4enie\oby4enie\obj\Debug\oby4enie.csproj.GenerateResource.cache
+C:\Users\rraf1\source\repos\oby4enie\oby4enie\obj\Debug\oby4enie.csproj.CoreCompileInputs.cache
+C:\Users\rraf1\source\repos\oby4enie\oby4enie\obj\Debug\oby4enie.exe
+C:\Users\rraf1\source\repos\oby4enie\oby4enie\obj\Debug\oby4enie.pdb
